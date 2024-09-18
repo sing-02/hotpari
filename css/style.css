@@ -86,6 +86,7 @@ nav {
     display: none;
 }
 
+
 .menu {
     width: 62%;
     margin-left: auto;
@@ -1164,6 +1165,9 @@ textarea {
     }
     .rate .price sub {
         font-size: 17px;
+    }
+    figure img{
+        height: 183px !important;
     }
 }
 
