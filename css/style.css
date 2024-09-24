@@ -840,7 +840,11 @@ textarea {
     width: 100%;
     object-fit: cover;
 }
-
+.col-sm-3 img{
+    min-height: 148px;
+    height: 268px !important;
+    object-fit: cover;
+}
 @media (max-width:1024px) {
     .container {
         max-width: 990px;
